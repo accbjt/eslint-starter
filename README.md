@@ -19,7 +19,7 @@ This will go through a set of questions so you can setup your eslint configurati
 
 ? Which style guide do you want to follow? (Use arrow keys)
 
-- Airbnb
+- Standard
 
 ? Do you use React? (y/N)
 

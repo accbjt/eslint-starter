@@ -1,6 +1,6 @@
-var cat = new Object();
+var cat = new Object()
 
-cat.name = 'Cat'
+cat.name = 'Cat';
 cat.says = "meow"
 
 var dog = {

@@ -1,3 +1,10 @@
 {
-  "extends": "airbnb-base"
+    "extends": "standard",
+    "plugins": [
+        "standard",
+        "promise"
+    ],
+    "rules": {
+      "semi": [2, "always"]
+    }
 }
