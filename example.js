@@ -4,7 +4,7 @@ cat.name = 'Cat';
 cat.says = "meow"
 
 var dog = {
-  name: "Dog",
+  name: "Dog"
   says: "woof woof",
 }
 
