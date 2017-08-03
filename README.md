@@ -1,6 +1,22 @@
 # eslint-starter
 
-## How to install eslint
+## Setup and installing eslint in this folder
+Here is how to setup this folder to use eslint. You will need to run this command and then install the Atom plugin below. Once the is done. You should be able to use eslint in your Atom editor. Play around with the example.js code and see if you can correct the file.
+```
+npm install
+```
+
+### Installing eslint plugin for Atom
+
+[https://github.com/AtomLinter/linter-eslint](https://github.com/AtomLinter/linter-eslint)
+
+```
+apm install linter-eslint
+```
+---
+
+### Instructions on how to install eslint on your own projects
+If you want to install eslint in your own project this is how you would do it.
 
 ```
 $ npm install eslint --save-dev
@@ -28,14 +44,6 @@ This will go through a set of questions so you can setup your eslint configurati
 ? What format do you want your config file to be in?
 
 - JSON
-```
-
-### Installing eslint plugin for Atom
-
-[https://github.com/AtomLinter/linter-eslint](https://github.com/AtomLinter/linter-eslint)
-
-```
-apm install linter-eslint
 ```
 
 ### Disabling eslint and customizing eslint rules
