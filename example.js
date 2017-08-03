@@ -1,12 +1,12 @@
-var cat = new Object()
+var cat = {};
 
 cat.name = 'Cat';
-cat.says = "meow"
+cat.says = 'meow';
 
 var dog = {
-  name: "Dog",
-  says: "woof woof",
-}
+  name: "Dog"
+  says: 'woof woof'
+};
 
 var items = new Array();
 
