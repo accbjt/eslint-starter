@@ -1,5 +1,10 @@
 # eslint-starter
 
+### Video tutorial
+Here is a video tutorial on what eslint is and how to use it.
+
+- https://youtu.be/bmsukUeExBo
+
 ## Setup and installing eslint in this folder
 Here is how to setup this folder to use eslint. You will need to run this command and then install the Atom plugin below. Once the is done. You should be able to use eslint in your Atom editor. Play around with the example.js code and see if you can correct the file.
 ```
